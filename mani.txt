@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Kill bill panday
+=======
+This is mani
+>>>>>>> 9ad17ec2811a6dd3aec3287c36c68ea92ad9e47c
